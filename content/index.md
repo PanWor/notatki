@@ -1,7 +1,5 @@
 ---
-title: Home
-alias:
-  - index
+title: Redirecting...
 ---
 
-<meta http-equiv="refresh" content="0; url=./Fizyka - Fizyka atomowa">
+![[fizyka-atomowa]]

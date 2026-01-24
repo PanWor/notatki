@@ -1,3 +1,8 @@
+---
+title: Fizyka - Fizyka atomowa
+permalink: fizyka-atomowa
+---
+
 # Promieniowanie elektromagnetyczne.
 
 1. **Fala elektromagnetyczna** (e-m), to przenikające się wzajemnie pole elektryczne i magnetyczne rozchodzące się w przestrzeni. Fala ta to fala poprzeczna, która może rozchodzić się w próżni. Porusza się z prędkością światła, czyli ok. $300 \text{ tys. } \frac{\text{km}}{\text{s}}$.
