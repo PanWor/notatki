@@ -36,7 +36,12 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // Hide files that have the "unlisted" tag
+        return node.data?.tags?.includes("unlisted") !== true
+      },
+    }),
   ],
   right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
 }
@@ -56,7 +61,12 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // Hide files that have the "unlisted" tag
+        return node.data?.tags?.includes("unlisted") !== true
+      },
+    }),
   ],
   right: [],
 }

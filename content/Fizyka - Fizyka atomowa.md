@@ -1,7 +1,7 @@
 ---
 title: Fizyka - Fizyka atomowa
 permalink: fizyka-atomowa
-alias:
+aliases:
   - "index"
   - "temp-bitly"
 ---
