@@ -3,6 +3,7 @@ title: Fizyka - Fizyka atomowa
 permalink: fizyka-atomowa
 alias:
   - "index"
+  - "temp-bitly"
 ---
 
 # Promieniowanie elektromagnetyczne.
