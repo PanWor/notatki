@@ -12,8 +12,11 @@ alias:
 3. Związek długości fali i częstotliwości dla fal rozchodzących się w próżni.
 
    $\Large{\lambda \cdot f = c}$
+
    $\lambda$ = długość fali
+
    $f$ = częstotliwość
+
    $c$ = prędkość światła w próżni ($3 \cdot 10^8 \frac{m}{s}$)
 
 # Widmo promieniowania.
@@ -37,8 +40,11 @@ alias:
 4. Energię fotonu opisuje wzór:
 
    $\Large{E = h \cdot f}$
+
    $E$ = energia fotonu
+
    $h$ = stała Plancka
+
    $f$ = częstotliwość promieniowania
 
 5. Masa fotonu:
@@ -74,8 +80,11 @@ alias:
 4. Równanie Einsteina:
 
    $\Large{h \cdot f = W + \frac{m \cdot v^2}{2}}$
+
    $h \cdot f$ = energia padającego kwantu promieniowania
+
    $W$ = praca wyjścia
+
    $\frac{m \cdot v^2}{2}$ = energia kinetyczna emitowanego elektronu
 
 5. Praca wyjścia – ilość energii potrzebna do wyjścia elektronu z atomu.
@@ -94,17 +103,22 @@ alias:
 6. Promień $n$-tej orbity dozwolonej można obliczyć ze wzoru:
 
    $\Large{r_n = n^2 + r_1}$
+
    $r_1 = 0{,}53 \cdot 10^{-10}\,\text{m}$
+
    np. $r_5 = 5^2 \cdot 0{,}53 \cdot 10^{-10}\,\text{m}$ $= 25 \cdot 0{,}53 \cdot 10^{10}\,\text{m}$ $= 13{,}25 \cdot 10^{10}\,\text{m}$
 
 7. Energia na $n$-tej orbicie wyraża się wzorem:
 
    $\Large{E_n = \frac{A}{n^2}}$
+
    $A = 13{,}6 \text{ eV}$
+
    np. $E_1 = -\frac{13{,}6}{1}\,\text{eV}$ $= -13{,}6\text{ eV}$
    $E_4 = -\frac{13{,}6}{4^2}\,\text{eV}$ $= -\frac{13{,}6}{16}\,\text{eV}$ $= 0{,}85\text{ eV}$
 
 8. Energia emitowana przy przejściu z $m$-tej na $n$-tą dozwoloną orbitę (gdzie $m>n$) wynosi:
 
    $\Large{E_m - E_n = A(\frac{1}{n^2} - \frac{1}{m^2}})$
+
    np. $E_5 - E_3 = 13,6(\frac{1}{3^2} - \frac{1}{5^2})\,\text{eV}$ $= 13,6(\frac{1}{9} - \frac{1}{25})\,\text{eV}$ $= 13,6(0{,}11 - 0{,}04)\,\text{eV}$ $= 13,6 \cdot 0{,}07\text{ eV}$ $= 0,952\text{ eV}$
