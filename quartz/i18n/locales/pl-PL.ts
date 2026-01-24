@@ -33,7 +33,7 @@ export default {
       title: "Tryb czytania",
     },
     explorer: {
-      title: "Notatki",
+      title: "Przeglądaj",
     },
     footer: {
       createdWith: "Shout-out dla",
