@@ -22,7 +22,7 @@ alias:
 
 # Widmo promieniowania.
 
-1. Każde ciało ogrzane emituje na zewnątrz promieniowanie. Wyemitowane światło (nie zawsze widzialne) tworzy widmo promieniowania, którego badaniem zajmuje się **spektroskopia*.***
+1. Każde ciało ogrzane emituje na zewnątrz promieniowanie. Wyemitowane światło (nie zawsze widzialne) tworzy widmo promieniowania, którego badaniem zajmuje się **spektroskopia**.
 2. **Widmo** to obraz promieniowania rozłożonego na poszczególne długości fali, dla światła na poszczególne barwy. Powstaje ono w wyniku rozszczepienia światła na przykład przez pryzmat.
 3. Tęcza to widmo światła słonecznego, które powstało na kroplach deszczu. Każda barwa światła odpowiada innej długości fali.
 4. Widmo, w którym jedna barwa w sposób płynny przechodzi w drugą, nazywamy **widmem ciągłym**. Takie widmo jest emitowane przez ciała stałe i ciecze o bardzo wysokich temperaturach.
