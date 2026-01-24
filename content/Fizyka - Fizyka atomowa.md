@@ -72,7 +72,7 @@ alias:
 
 # Zjawisko fotoelektryczne zewnętrzne.
 
-![[Pasted image 20260124171122.png]]
+![[katoda.png]]
 
 1. Zjawisko emisji elektronów z powierzchni substancji na którą pada promieniowanie elektromagnetyczne, nazywamy **zjawiskiem fotoelektrycznym zewnętrznym**.
 2. Liczba elektronów wyzwalanych przez światło jest proporcjonalna do natężenia światła padającego na katodę.
