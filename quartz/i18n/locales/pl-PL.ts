@@ -26,17 +26,17 @@ export default {
       noBacklinksFound: "Brak połączeń zwrotnych",
     },
     themeToggle: {
-      lightMode: "Trzyb jasny",
-      darkMode: "Tryb ciemny",
+      lightMode: "Tryb dla ludzi niepełnosprawnych",
+      darkMode: "Tryb dla ludzi zdrowych",
     },
     readerMode: {
       title: "Tryb czytania",
     },
     explorer: {
-      title: "Przeglądaj",
+      title: "Notatki",
     },
     footer: {
-      createdWith: "Stworzone z użyciem",
+      createdWith: "Shout-out dla",
     },
     graph: {
       title: "Graf",
@@ -51,13 +51,13 @@ export default {
     },
     search: {
       title: "Szukaj",
-      searchBarPlaceholder: "Wpisz frazę wyszukiwania",
+      searchBarPlaceholder: "Wpisz coś lol",
     },
     tableOfContents: {
       title: "Spis treści",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min. czytania `,
+      readingTime: ({ minutes }) => `${minutes} min czytania `,
     },
   },
   pages: {
