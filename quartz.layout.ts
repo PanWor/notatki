@@ -38,8 +38,14 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       filterFn: (node) => {
-        // Hide files that have the "unlisted" tag
-        return node.data?.tags?.includes("unlisted") !== true
+        // Hide by tag 'unlisted'
+        const isUnlisted = node.data?.tags?.includes("unlisted")
+
+        // Hide by specific filename (displayName is the actual string name)
+        const isTempFile = node.displayName === "temp-bitly"
+
+        // Return true to show, false to hide
+        return !(isUnlisted || isTempFile)
       },
     }),
   ],
@@ -63,8 +69,14 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       filterFn: (node) => {
-        // Hide files that have the "unlisted" tag
-        return node.data?.tags?.includes("unlisted") !== true
+        // Hide by tag 'unlisted'
+        const isUnlisted = node.data?.tags?.includes("unlisted")
+
+        // Hide by specific filename (displayName is the actual string name)
+        const isTempFile = node.displayName === "temp-bitly"
+
+        // Return true to show, false to hide
+        return !(isUnlisted || isTempFile)
       },
     }),
   ],
