@@ -1,6 +1,0 @@
----
-title: Redirecting...
----
-
-![[fizyka-atomowa]]
-

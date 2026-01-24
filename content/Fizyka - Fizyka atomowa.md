@@ -1,6 +1,7 @@
 ---
 title: Fizyka - Fizyka atomowa
 permalink: fizyka-atomowa
+slug: index
 ---
 
 # Promieniowanie elektromagnetyczne.
