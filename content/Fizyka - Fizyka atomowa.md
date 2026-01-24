@@ -9,7 +9,7 @@ aliases:
 # Promieniowanie elektromagnetyczne.
 
 1. **Fala elektromagnetyczna** (e-m), to przenikające się wzajemnie pole elektryczne i magnetyczne rozchodzące się w przestrzeni. Fala ta to fala poprzeczna, która może rozchodzić się w próżni. Porusza się z prędkością światła, czyli ok. $300 \text{ tys. } \frac{\text{km}}{\text{s}}$.
-2. Źródłem takiej fali jest każdy ładunek elektryczny poruszający się z przyśpieszeniem. Materia na Ziemi zbudowana jest z cząsteczek, których [?] mające ładunek są w ciągłym ruchu drgającym i tym samym emitują fale elektromagnetyczne. Daleko w kosmosie większość cząsteczek to jony, czyli cząsteczki naładowane, które również są źródłem fal elektromagnetycznych.
+2. Źródłem takiej fali jest każdy ładunek elektryczny poruszający się z przyśpieszeniem. Materia na Ziemi zbudowana jest z cząsteczek, których składniki mające ładunek są w ciągłym ruchu drgającym i tym samym emitują fale elektromagnetyczne. Daleko w kosmosie większość cząsteczek to jony, czyli cząsteczki naładowane, które również są źródłem fal elektromagnetycznych.
 3. Związek długości fali i częstotliwości dla fal rozchodzących się w próżni.
 
    $\Large{\lambda \cdot f = c}$
@@ -18,7 +18,7 @@ aliases:
 
    $f$ = częstotliwość
 
-   $c$ = prędkość światła w próżni ($3 \cdot 10^8 \frac{m}{s}$)
+   $c$ = prędkość światła w próżni ($3 \cdot 10^8 \frac{\text{m}}{\text{s}}$)
 
 # Widmo promieniowania.
 
