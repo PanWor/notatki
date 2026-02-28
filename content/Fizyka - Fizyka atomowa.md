@@ -103,20 +103,20 @@ aliases:
 5. W takim stanie (tj. wzbudzonym) elektron może przebywać bardzo krótko. Po chwili spada na któryś z niższych poziomów. Gdy elektron przechodzi z wyższego poziomu energetycznego na niższy emituje foton. Energia fotonu jest równa różnicy energii między tymi poziomami.
 6. Promień $n$-tej orbity dozwolonej można obliczyć ze wzoru:
 
-   $\Large{r_n = n^2 + r_1}$
+   $\Large{r_n = n^2 \cdot r_1}$
 
    $r_1 = 0{,}53 \cdot 10^{-10}\,\text{m}$
 
-   np. $r_5 = 5^2 \cdot 0{,}53 \cdot 10^{-10}\,\text{m}$ $= 25 \cdot 0{,}53 \cdot 10^{10}\,\text{m}$ $= 13{,}25 \cdot 10^{10}\,\text{m}$
+   np. $r_5 = 5^2 \cdot 0{,}53 \cdot 10^{-10}\,\text{m}$ $= 25 \cdot 0{,}53 \cdot 10^{-10}\,\text{m}$ $= 13{,}25 \cdot 10^{-10}\,\text{m}$
 
 7. Energia na $n$-tej orbicie wyraża się wzorem:
 
    $\Large{E_n = \frac{A}{n^2}}$
 
-   $A = 13{,}6 \text{ eV}$
+   $A = -13{,}6 \text{ eV}$
 
    np. $E_1 = -\frac{13{,}6}{1}\,\text{eV}$ $= -13{,}6\text{ eV}$
-   $E_4 = -\frac{13{,}6}{4^2}\,\text{eV}$ $= -\frac{13{,}6}{16}\,\text{eV}$ $= 0{,}85\text{ eV}$
+   $E_4 = -\frac{13{,}6}{4^2}\,\text{eV}$ $= -\frac{13{,}6}{16}\,\text{eV}$ $= -0{,}85\text{ eV}$
 
 8. Energia emitowana przy przejściu z $m$-tej na $n$-tą dozwoloną orbitę (gdzie $m>n$) wynosi:
 
