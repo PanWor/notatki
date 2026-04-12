@@ -1,5 +1,5 @@
 ---
-title: Fizyka – Elektromagnetyzm
+title: Fizyka - Elektromagnetyzm
 permalink: elektromagnetyzm
 aliases:
   - "index"
@@ -47,29 +47,35 @@ aliases:
 5. Natężeniem skutecznym prądu przemiennego nazywamy natężenie takiego prądu stałego, który, płynąc w tym samym obwodzie zamiast prądu przemiennego, wykona w ciągu tego samego taką samą pracę jak prąd przemienny.
 	
 	$\Large{I_{sk} = \frac{I_0}{\sqrt{2}}}$
+
     $I_{sk}$ = natężenie skuteczne
+
     $I_0$ = wartość maksymalna natężenia prądu
     
 
 6. Napięcie skuteczne prądu przemiennego jest równe iloczynowi oporu przewodnika i natężenia skutecznego.
 	
 	$\Large{U_{sk} = R \cdot I_{sk} = \frac{U_0}{\sqrt{2}}}$
+
     $I_{sk}$ = napięcie skuteczne
+
     $R$ = opór elektryczny
+
     $I_{sk}$ = natężenie skuteczne
+
     $U_0$ = wartość maksymalna napięcia
 	
 
 7. Natężenie skuteczne i napięcie skuteczne są $\sqrt{2}$ razy mniejsze od wartości maksymalnych tych wartości. Jeżeli mówimy, że napięcie w sieci wynosi $230\,V$, to jest to napięcie skuteczne.
    W rzeczywistości w każdej chwili napięcie w sieci ma inną wartość, a jego wartość maksymalna wartość maksymalna to:
+
    $\sqrt{2} \cdot U_{sk} = \sqrt{2} \cdot 230\,V \approx 322\,V$
 
 8. Moc średnią, zwaną także mocą skuteczną, wyrażamy wzorem:
 	
 	$\Large{P_{śr} = U_{sk} \cdot I_{sk}}$
 	
-
-8. Napięcie znamionowe to napięcie skuteczne zasilania, aby urządzenie pracowało prawidłowo. [<-- bezsensowne zdanie btw] Moc znamionowa to moc, która zostanie osiągnięta, gdy urządzenie będzie podłączone do napięcia znamionowego.
+9. Napięcie znamionowe to napięcie skuteczne zasilania, aby urządzenie pracowało prawidłowo. [<-- bezsensowne zdanie btw] Moc znamionowa to moc, która zostanie osiągnięta, gdy urządzenie będzie podłączone do napięcia znamionowego.
 
 # Transformator. Sieci energetyczne.
 
@@ -82,8 +88,11 @@ aliases:
 2. Stosunek liczby zwojów w uzwojeniu wtórnym do liczby zwojów w uzwojeniu pierwotnym jest wielkością charakteryzującą transformator nazywany przekładnią transformatora.
 	
 	$\Large{k = \frac{n_2}{n_1}}$
+
     $k$ = przekładnia transformatora
+
     $n_2$ = liczba zwojów uzwojenia wtórnego
+
     $n_1$ = liczba zwojów uzwojenia pierwotnego
 	
 	Gdy $n_2 < n_1$, to transformator obniża napięcie ($U_{sk_2} < U_{sk_1}$)
@@ -92,13 +101,18 @@ aliases:
    Sprawność transformatora to stosunek mocy średniej uzyskanej w uzwojeniu wtórnym do masy średniej uzyskanej w uzwojeniu pierwotnym.
 	
 	$\Large{\eta = \frac{P_{sk_2}}{P_{sk_1}} \cdot 100\%}$
+
     $\eta$ (czyt. *eta*) = sprawność transformatora (wyrażona w procentach)
+
     $P_{sk_2}$ = moc skuteczna oddawana z uzwojenia wtórnego
+
     $P_{sk_1}$ = moc skuteczna pobierana przez uzwojenie pierwotne
+
     $100\%$ = współczynnik, żeby zamienić ułamek na procent
 	
 	Sprawność transformatorów przemysłowych dochodzi od $98\%$.
 	Związek między napięciami i natężeniami skutecznymi:
 	
+
 	$\Large{\frac{U_{sk_2}}{U_{sk_1}} = \frac{I_{sk_2}}{I_{sk_1}} = \frac{n_2}{n_1}}$
 	

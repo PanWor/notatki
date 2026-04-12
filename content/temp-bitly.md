@@ -1,8 +1,8 @@
 ---
 title: Temp Redirect
-redirect: "fizyka-atomowa"
+redirect: "elektromagnetyzm"
 tags:
   - unlisted
 ---
 
-<meta http-equiv="refresh" content="0; url=./fizyka-atomowa">
+<meta http-equiv="refresh" content="0; url=./elektromagnetyzm">
