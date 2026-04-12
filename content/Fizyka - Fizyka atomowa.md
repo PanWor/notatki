@@ -111,9 +111,9 @@ aliases:
 
 7. Energia na $n$-tej orbicie wyraża się wzorem:
 
-   $\Large{E_n = \frac{A}{n^2}}$
+   $\Large{E_n = -\frac{A}{n^2}}$
 
-   $A = -13{,}6 \text{ eV}$
+   $A = 13{,}6 \text{ eV}$
 
    np. $E_1 = -\frac{13{,}6}{1}\,\text{eV}$ $= -13{,}6\text{ eV}$
    $E_4 = -\frac{13{,}6}{4^2}\,\text{eV}$ $= -\frac{13{,}6}{16}\,\text{eV}$ $= -0{,}85\text{ eV}$
