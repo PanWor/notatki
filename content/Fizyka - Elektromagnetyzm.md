@@ -18,7 +18,7 @@ aliases:
 
 5. Prąd indukcyjny może powstać także w nieruchomym obwodzie, gdy zmienia się pole magnetyczne. W tym przypadku na nieruchome elektrony nie działa siła magnetyczna.
 
-6. Wokół zmiennego w czasie pola magnetycznego powstaje tzw. *worowe pole elektryczne*. Jeżeli obejmie ono zwojnicę, powoduje w niej przepływ elektronów (czyli wzbudza prąd).
+6. Wokół zmiennego w czasie pola magnetycznego powstaje tzw. *wirowe pole elektryczne*. Jeżeli obejmie ono zwojnicę, powoduje w niej przepływ elektronów (czyli wzbudza prąd).
 
 7. Gdy pewna część obwodu porusza się w polu magnetycznym, prąd powstaje w wyniku działania siły Lorentza na elektrony. Gdy natomiast obwód się nie porusza, ale zmienia się pole magnetyczne, prąd zaczyna płynąć dzięki powstawaniu wirowego pola elektrycznego.
 
