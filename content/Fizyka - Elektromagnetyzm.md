@@ -104,9 +104,9 @@ aliases:
 
     $\eta$ (czyt. *eta*) = sprawność transformatora (wyrażona w procentach)
 
-    $P_{sk_2}$ = moc skuteczna oddawana z uzwojenia wtórnego
+    $P_{śr_2}$ = moc średnia oddawana z uzwojenia wtórnego
 
-    $P_{sk_1}$ = moc skuteczna pobierana przez uzwojenie pierwotne
+    $P_{śr_1}$ = moc średnia pobierana przez uzwojenie pierwotne
 
     $100\%$ = współczynnik, żeby zamienić ułamek na procent
 	
