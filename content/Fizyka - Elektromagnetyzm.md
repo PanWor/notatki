@@ -57,7 +57,7 @@ aliases:
 	
 	$\Large{U_{sk} = R \cdot I_{sk} = \frac{U_0}{\sqrt{2}}}$
 
-    $I_{sk}$ = napięcie skuteczne
+    $U_{sk}$ = napięcie skuteczne
 
     $R$ = opór elektryczny
 
@@ -67,7 +67,7 @@ aliases:
 	
 
 7. Natężenie skuteczne i napięcie skuteczne są $\sqrt{2}$ razy mniejsze od wartości maksymalnych tych wartości. Jeżeli mówimy, że napięcie w sieci wynosi $230\,V$, to jest to napięcie skuteczne.
-   W rzeczywistości w każdej chwili napięcie w sieci ma inną wartość, a jego wartość maksymalna wartość maksymalna to:
+   W rzeczywistości w każdej chwili napięcie w sieci ma inną wartość, a jego wartość maksymalna to:
 
    $\sqrt{2} \cdot U_{sk} = \sqrt{2} \cdot 230\,V \approx 322\,V$
 
