@@ -98,7 +98,7 @@ aliases:
 	Gdy $n_2 < n_1$, to transformator obniża napięcie ($U_{sk_2} < U_{sk_1}$)
 
 2. W celu uwzględnienia strat energii, które mają miejsce podczas przetwarzania napięcia w transformatorze, wprowadza się współczynnik nazywany <u>sprawnością transformatora</u>.
-   Sprawność transformatora to stosunek mocy średniej uzyskanej w uzwojeniu wtórnym do masy średniej uzyskanej w uzwojeniu pierwotnym.
+   Sprawność transformatora to stosunek mocy średniej uzyskanej w uzwojeniu wtórnym do mocy średniej uzyskanej w uzwojeniu pierwotnym.
 	
 	$\Large{\eta = \frac{P_{sk_2}}{P_{sk_1}} \cdot 100\%}$
 
