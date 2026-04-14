@@ -100,7 +100,7 @@ aliases:
 2. W celu uwzględnienia strat energii, które mają miejsce podczas przetwarzania napięcia w transformatorze, wprowadza się współczynnik nazywany <u>sprawnością transformatora</u>.
    Sprawność transformatora to stosunek mocy średniej uzyskanej w uzwojeniu wtórnym do mocy średniej uzyskanej w uzwojeniu pierwotnym.
 	
-	$\Large{\eta = \frac{P_{sk_2}}{P_{sk_1}} \cdot 100\%}$
+	$\Large{\eta = \frac{P_{śr_2}}{P_{śr_1}} \cdot 100\%}$
 
     $\eta$ (czyt. *eta*) = sprawność transformatora (wyrażona w procentach)
 
