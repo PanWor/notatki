@@ -44,7 +44,7 @@ aliases:
 4. Prąd zmienny to prąd, którego natężenie zmienia się w dowolny sposób.
    Prąd przemienny jest szczególnym przypadkiem prądu zmiennego.
 
-5. Natężeniem skutecznym prądu przemiennego nazywamy natężenie takiego prądu stałego, który, płynąc w tym samym obwodzie zamiast prądu przemiennego, wykona w ciągu tego samego taką samą pracę jak prąd przemienny.
+5. Natężeniem skutecznym prądu przemiennego nazywamy natężenie takiego prądu stałego, który płynąc w tym samym obwodzie zamiast prądu przemiennego, wykona w ciągu tego samego czasu taką samą pracę jak prąd przemienny.
 	
 	$\Large{I_{sk} = \frac{I_0}{\sqrt{2}}}$
 
